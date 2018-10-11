@@ -1,5 +1,5 @@
 // declare your functions here...
-$('img')
+/*$('img')
 $('.pics')
 $('#baby-ninja')
 $('ul li')
@@ -7,5 +7,9 @@ $('ul li')
 $('div img:first-child')
 
 $("img[alt='the beatles making faces']")
+
+$('div:last')
+
+*/
 
 
