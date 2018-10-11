@@ -17,5 +17,5 @@ function paragraphSelector() {
 }
 
 function lastImageSelector() {
-  return $('ul li:last')
+  return $('div img:last')
 }
